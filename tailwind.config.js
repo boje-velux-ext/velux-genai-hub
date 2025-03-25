@@ -9,18 +9,31 @@ export default {
 		extend: {
 			colors: {
 				gray: {
-					50: 'var(--color-gray-50, #f9f9f9)',
-					100: 'var(--color-gray-100, #ececec)',
-					200: 'var(--color-gray-200, #e3e3e3)',
-					300: 'var(--color-gray-300, #cdcdcd)',
-					400: 'var(--color-gray-400, #b4b4b4)',
-					500: 'var(--color-gray-500, #9b9b9b)',
-					600: 'var(--color-gray-600, #676767)',
-					700: 'var(--color-gray-700, #4e4e4e)',
-					800: 'var(--color-gray-800, #333)',
-					850: 'var(--color-gray-850, #262626)',
-					900: 'var(--color-gray-900, #171717)',
-					950: 'var(--color-gray-950, #0d0d0d)'
+					// 50: 'var(--color-gray-50, #f9f9f9)',
+					// 100: 'var(--color-gray-100, #ececec)',
+					// 200: 'var(--color-gray-200, #e3e3e3)',
+					// 300: 'var(--color-gray-300, #cdcdcd)',
+					// 400: 'var(--color-gray-400, #b4b4b4)',
+					// 500: 'var(--color-gray-500, #9b9b9b)',
+					// 600: 'var(--color-gray-600, #676767)',
+					// 700: 'var(--color-gray-700, #4e4e4e)',
+					// 800: 'var(--color-gray-800, #333)',
+					// 850: 'var(--color-gray-850, #262626)',
+					// 900: 'var(--color-gray-900, #171717)',
+					// 950: 'var(--color-gray-950, #0d0d0d)'
+
+					50: 'var(--color-gray-50, #ffebee)',
+					100: 'var(--color-gray-100, #ffcdd2)',
+					200: 'var(--color-gray-200, #ef9a9a)',
+					300: 'var(--color-gray-300, #e57373)',
+					400: 'var(--color-gray-400, #ef5350)',
+					500: 'var(--color-gray-500, #f44336)',
+					600: 'var(--color-gray-600, #e53935)',
+					700: 'var(--color-gray-700, #d32f2f)',
+					800: 'var(--color-gray-800, #c62828)',
+					850: 'var(--color-gray-850, #b71c1c)',
+					900: 'var(--color-gray-900, #b71c1c)',
+					950: 'var(--color-gray-950, #7f0000)'
 				}
 			},
 			typography: {
